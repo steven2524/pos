@@ -1,0 +1,12 @@
+el_clients:
+  - geth
+cl_clients:
+  - lighthouse
+
+network_params:
+  chain_name: "private-pos"
+  chain_id: 2025
+  seconds_per_slot: 12
+  total_terminal_difficulty: "0x1"
+  min_genesis_time: 1710000000
+  num_validators: 3

@@ -1,0 +1,4 @@
+mnemonics:
+  - name: "test-wallet"
+    mnemonic: "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
+    count: 3
